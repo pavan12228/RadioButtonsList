@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RadioButtonsList</string>
+    <string name="pick_toppings">HelloWorld</string>
+    <string-array name="toppings">
+        <item>java</item>
+        <item>Angular js</item>
+    </string-array>
+</resources>
